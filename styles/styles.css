@@ -203,3 +203,42 @@ a {
   width: 280px;
   height: 300px;
 }
+
+.box {
+  margin: 128px 150px;
+  border-radius: 7px;
+  background: rgba(39, 39, 39, 0.05);
+  height: 378px;
+  background-image: url(../images/Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top center;
+}
+
+#deal-title {
+  padding-top: 50px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.form-action {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.email-bx {
+  height: 30px;
+  width: 400px;
+  padding-left: 15px;
+}
+
+.submit-btn {
+  padding: 2px 18px 7px;
+  border-radius: 3px;
+  background: #e55473;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 16px;
+}
