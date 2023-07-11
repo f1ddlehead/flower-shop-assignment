@@ -86,7 +86,7 @@ main {
 .caption-container {
   display: flex;
   justify-content: space-around;
-  margin-top: 48px;
+  margin-top: 20px;
   margin-left: 240px;
   margin-right: 240px;
 }
@@ -101,6 +101,30 @@ figcaption {
 a {
   color: #272727;
 }
+
+/* .caption-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  margin-left: 240px;
+  margin-right: 240px;
+}
+
+figcaption {
+  color: #272727;
+  justify-content: space-evenly;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.caption-name {
+  text-align: center;
+  justify-content: center;
+}
+
+a {
+  color: #272727;
+} */
 
 .rectangle {
   border-radius: 300px 300px 0px 0px;
